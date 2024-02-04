@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-Welcome to my work-in-progress Github page! I'm Jia Hui, currently I'm an AI apprentice working on AI projects :) 
+Welcome to my work-in-progress Github page! I'm Jia Hui, currently I'm an AI apprentice working on AI projects :) My interests lie in leveraging AI to optimize processes and enhance efficiency, and to seek innovative solutions that harness the power of AI to drive positive and impactful transformations.
 
 So I was previously a self-taught/learnt-on-the-job bioinformatician and I have since then migrated to a this new github page for my career switch but if you're interested here's [Bioinformatics Jia Hui](https://github.com/wongjh12)
 
