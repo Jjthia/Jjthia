@@ -6,6 +6,7 @@ So I was previously a self-taught/learnt-on-the-job bioinformatician and I have 
 
 ### 🔭 Currently working on:
 - LLM + RAG pipeline for search suggestion
+- Leetcode questions 
 
 ### 🌱 Interesting tidbits I've learnt recently:
 - Kedro frameworks are not LLM inference pipelines friendly :( 
