@@ -1,16 +1,16 @@
 #### Hi there 👋
 
-Welcome to my work-in-progress Github page! I'm Jia Hui, currently I'm an AI apprentice working on AI projects :) My interests lie in leveraging AI to optimize processes and enhance efficiency, and to seek innovative solutions that harness the power of AI to drive positive and impactful transformations.
+Welcome to my work-in-progress Github page! I'm Jia Hui, currently I'm an AI engineer working on AI projects :) My interests lie in leveraging AI to optimize processes and enhance efficiency, and to seek innovative solutions that harness the power of AI to drive positive and impactful transformations.
 
-So I was previously a self-taught/learnt-on-the-job bioinformatician and I have since then migrated to a this new github page for my career switch but if you're interested here's [Bioinformatics Jia Hui](https://github.com/wongjh12)
 
 ### 🔭 Currently working on:
-- LLM + RAG pipeline for search suggestion
-- Leetcode questions 
+- Robotic arm with VLA finetuning!
 
-### 🌱 Interesting tidbits I've learnt recently:
-- Kedro frameworks are not LLM inference pipelines friendly :( 
-- Microsoft powertoys's [FancyZones](https://learn.microsoft.com/en-us/windows/powertoys/fancyzones) is a life-changing tool 
+### 🌱 Where I started:
+- Previously a self-taught/learnt-on-the-job bioinformatician and I have since then migrated to a this new github page for my career switch but if you're interested here's [Bioinformatics Jia Hui](https://github.com/wongjh12)
+- LLM + VDB + KG RAG pipeline for search suggestion
+- VLM exploration for OCR task
+- Designed a workflow for deep research (web + own data sources)
 
 
 ### :computer: Programming languages and tools that I have used (from most confident to least): 
